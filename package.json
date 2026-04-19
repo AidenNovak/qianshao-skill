@@ -11,5 +11,7 @@
   "engines": { "node": ">=14" },
   "license": "MIT",
   "author": "lijixiang",
-  "repository": { "type": "git", "url": "https://github.com/dontbesilent2025/qianshao-skill.git" }
+  "repository": { "type": "git", "url": "git+https://github.com/AidenNovak/qianshao-skill.git" },
+  "homepage": "https://github.com/AidenNovak/qianshao-skill#readme",
+  "bugs": { "url": "https://github.com/AidenNovak/qianshao-skill/issues" }
 }
