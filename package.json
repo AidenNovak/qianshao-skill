@@ -1,0 +1,15 @@
+{
+  "name": "qianshao-skill",
+  "version": "0.1.0",
+  "description": "前哨站 · qianshao skill — 一套把 dontbesilent · 浪钱 · 前哨站 课程 14.7 万字提炼成的 Codex / Claude Code / Copilot CLI 通用 skill。装上后可在 CLI 里直接 /qianshao 做配得上诊断 / 财务系统跑表 / 负债拆解 / 生活曲线判定。",
+  "keywords": ["skill", "codex", "copilot-cli", "claude-code", "qianshao", "dontbesilent", "前哨站", "浪钱"],
+  "bin": {
+    "qianshao": "bin/cli.js",
+    "qianshao-skill": "bin/cli.js"
+  },
+  "files": ["bin", "skills", "README.md", "LICENSE"],
+  "engines": { "node": ">=14" },
+  "license": "MIT",
+  "author": "lijixiang",
+  "repository": { "type": "git", "url": "https://github.com/dontbesilent2025/qianshao-skill.git" }
+}
